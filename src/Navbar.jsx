@@ -28,7 +28,7 @@ export default function Navbar() {
           <a href="#home" className="hover:text-teal-500 dark:hover:text-teal-400 transition-colors">Home</a>
           <a href="#about" className="hover:text-teal-500 dark:hover:text-teal-400 transition-colors">About</a>
           <a href="#projects" className="hover:text-teal-500 dark:hover:text-teal-400 transition-colors">Projects</a>
-          <a href="#certificates" className="hover:text-teal-500 dark:hover:text-teal-400 transition-colors">Certificates</a>
+          <a href="#certifications" className="hover:text-teal-500 dark:hover:text-teal-400 transition-colors">Certifications</a>
           <a href="#contact" className="hover:text-teal-500 dark:hover:text-teal-400 transition-colors">Contact</a>
         </div>
 
@@ -67,7 +67,7 @@ export default function Navbar() {
           <a href="#home" onClick={() => setIsOpen(false)} className="hover:text-teal-500 dark:hover:text-teal-400">Home</a>
           <a href="#about" onClick={() => setIsOpen(false)} className="hover:text-teal-500 dark:hover:text-teal-400">About</a>
           <a href="#projects" onClick={() => setIsOpen(false)} className="hover:text-teal-500 dark:hover:text-teal-400">Projects</a>
-          <a href="#certificates" onClick={() => setIsOpen(false)} className="hover:text-teal-500 dark:hover:text-teal-400">Certificates</a>
+          <a href="#certifications" onClick={() => setIsOpen(false)} className="hover:text-teal-500 dark:hover:text-teal-400">Certifications</a>
           <a href="#contact" onClick={() => setIsOpen(false)} className="hover:text-teal-500 dark:hover:text-teal-400">Contact</a>
         </div>
       )}

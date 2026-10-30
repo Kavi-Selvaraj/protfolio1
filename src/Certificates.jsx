@@ -55,7 +55,7 @@ export default function Certifications() {
             <span>sys_credentials // certifications</span>
           </div>
           <h2 className="text-3xl sm:text-5xl font-extrabold tracking-tight">
-            Licenses & <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-cyan-600 dark:from-teal-300 dark:to-cyan-400">Certifications</span>
+            Professional <span className="text-transparent bg-clip-text bg-linear-to-r from-teal-600 to-cyan-600 dark:from-teal-300 dark:to-cyan-400">Certifications</span>
           </h2>
         </div>
 
